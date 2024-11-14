@@ -1,6 +1,6 @@
-# Tic Tac Toe
+# Discovering features
 
-Kata in Python
+Use of GitHub Copilot in Python
 
 ## Requirements
 
