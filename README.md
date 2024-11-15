@@ -52,12 +52,12 @@ Open the provided Python project and generate suggestion from Copilot with
 ### 2. a function signature
 
 ```python
-def calcul_sum(number_list):
+def calcul_sum_for_even_values(number_list):
 ```
 
 ### 3. the in-line prompt in code
 
-Select the previous method, open in-line prompt, and ask: _"refactor to use the stream API"_
+Select the previous method, open in-line prompt, and ask: _"refactor to use list comprehensions"_
 
 ### 4. multiple suggestions
 
